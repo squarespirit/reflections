@@ -12,3 +12,6 @@ When you want to make multiple experimental changes that you are not sure belong
 
 Diagrams visualize the branch structure:
 Diagrams allow you to see at which file one branch separated from another. Access through git log --graph --oneline
+
+Merging two branches:
+This allows changes from two branches to be integrated together, ex. changes in an experimental branch can be integrated with the master branch, or two people's work can be merged together.
