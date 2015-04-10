@@ -6,3 +6,6 @@ Files in the working directory may be added to the staging area. In a commit, al
 
 Commit size:
 Use git diff to compare your current changes with the staging area, which still contains the previous commits. If files have already been placed on the staging area, use git diff --staged to compare the staging area to the most recent commits. Either way, make sure the differences (your changes) only represent one logical change.
+
+When to use branches:
+When you want to make multiple experimental changes that you are not sure belong on the master branch. Extending each experimental change with new commits would be a lot of overhead if each change had to be on the same branch.
