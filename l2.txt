@@ -15,3 +15,6 @@ Diagrams allow you to see at which file one branch separated from another. Acces
 
 Merging two branches:
 This allows changes from two branches to be integrated together, ex. changes in an experimental branch can be integrated with the master branch, or two people's work can be merged together.
+
+Git's automatic merging:
+Automatic merging makes the boring task of combining two files easy. When there might be a conflict, Git does not "guess" and try to automatically merge, which may cause strange bugs. Instead, the coders are asked to correct the conflict.
