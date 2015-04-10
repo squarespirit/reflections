@@ -9,3 +9,6 @@ Use git diff to compare your current changes with the staging area, which still 
 
 When to use branches:
 When you want to make multiple experimental changes that you are not sure belong on the master branch. Extending each experimental change with new commits would be a lot of overhead if each change had to be on the same branch.
+
+Diagrams visualize the branch structure:
+Diagrams allow you to see at which file one branch separated from another. Access through git log --graph --oneline
