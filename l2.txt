@@ -1,0 +1,5 @@
+Initializing a repository:
+This creates a new repository in the current directory, including a .git folder. No commits are made yet.
+
+Staging area:
+Files in the working directory may be added to the staging area. In a commit, all files in the staging area are committed to the repository. The staging area allows you to choose exactly which files in the working directory should or should not be part of the repository.

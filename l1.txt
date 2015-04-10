@@ -1,0 +1,21 @@
+Using diff to find bugs:
+Compare your edited, newer version of the file to the working, older version of the file. The differences are responsible for the program working or not.
+
+Using history for efficiency:
+If you had something in an older version that you need in a newer version but deleted, with version control it is easy to locate older versions and get the code you need.
+
+Manual commits:
+Ensures that all commits are logical and purposeful
+
+Multi-file commits:
+Some version control systems are geared directly for code and programming, so allow saving multiple files in a single commit.
+
+Viewing history with git:
+Log displays a list of recent commits with their comments.
+Diff allows you to compare two commits for differences.
+
+Confidence to make changes:
+If you make a change that may introduce some bugs, that is ok because you have easy access to previous versions which have no bugs.
+
+How do I want to use Git?
+To keep better track of programming projects, whether it is web or mobile development.
