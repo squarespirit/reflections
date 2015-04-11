@@ -3,3 +3,8 @@ This allows other people to view and contribute to your work. Also, if your comp
 
 Pulling changes manually:
 Perhaps you are making changes to your local repository and not ready to update it. Manually pulling changes makes sure that you update your local repository only when you are ready.
+
+Comparing forks, clones, and branches:
+A branch is a chain of commits. It is located inside a single repository, which may have multiple branches.
+A clone is a copy of another repository. You can clone from GitHub to local or between two local locations.
+A fork is a special version of a clone that you can perform on GitHub. You can fork someone else's project to make your own version.
