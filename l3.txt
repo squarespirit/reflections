@@ -1,0 +1,2 @@
+Using a remote repository:
+This allows other people to view and contribute to your work. Also, if your computer breaks and you lose your local data, your repository will still be available online.
