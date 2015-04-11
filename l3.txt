@@ -1,2 +1,5 @@
 Using a remote repository:
 This allows other people to view and contribute to your work. Also, if your computer breaks and you lose your local data, your repository will still be available online.
+
+Pulling changes manually:
+Perhaps you are making changes to your local repository and not ready to update it. Manually pulling changes makes sure that you update your local repository only when you are ready.
