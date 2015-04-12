@@ -11,3 +11,6 @@ A fork is a special version of a clone that you can perform on GitHub. You can f
 
 Benefits of having the last known state of remote branches:
 This allows you to update your local repository with changes from the remote repository only when you need to with "fetch". These fetched changes will not disturb your local repository or your working directory.
+
+Collaborating without git and github:
+Without git, I would probably use Dropbox to backup and access previous versions of my code, which is less helpful than git's commit log with commit messages. Without github, it would be more difficult to share code with others. Anyone can fork, contribute to, or comment on your project. 
