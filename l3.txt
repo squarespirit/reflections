@@ -8,3 +8,6 @@ Comparing forks, clones, and branches:
 A branch is a chain of commits. It is located inside a single repository, which may have multiple branches.
 A clone is a copy of another repository. You can clone from GitHub to local or between two local locations.
 A fork is a special version of a clone that you can perform on GitHub. You can fork someone else's project to make your own version.
+
+Benefits of having the last known state of remote branches:
+This allows you to update your local repository with changes from the remote repository only when you need to with "fetch". These fetched changes will not disturb your local repository or your working directory.
